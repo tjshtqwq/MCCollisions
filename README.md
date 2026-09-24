@@ -1,7 +1,7 @@
 # MC Collisions
-A minecraft java editon's collisions engine, including block's collision/hit shapes, entity collision box, moving collisions box.  
+A Minecraft Java Editon's collision engine, including blocks' collision/hit shapes, entity collision box, moving collision boxes.  
 Include a collision box util interface, and simple/complex/hex/no collisions impls.  
-### Skidded from Grim Anticheat, most work by Deepseek V4.1 Flash.
+### Skidded from Grim Anticheat, and most code is coded by Deepseek V4.1 Flash.
 
 ## How to use?
 This project depends on PacketEvents.
